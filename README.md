@@ -1,0 +1,1 @@
+firstly i made this game by using very simple html and css and the game logic took some time but i got some help from video tutorials and eventually i understood the deep logic (there are some bugs in it but i will soon fix it )
